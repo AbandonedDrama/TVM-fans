@@ -1,6 +1,8 @@
 # tvm-fansfans
 
-> A Vue.js project
+> 联合TVM制作简单的落地页 吸粉小模板  
+
+> 公司使用 禁止模仿哦!
 
 ## Build Setup
 
