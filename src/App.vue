@@ -105,7 +105,7 @@ export default {
 
   created: function() {
     // 判断是不是微信打开
-    this.is_weixn()
+    // this.is_weixn()
   },
   computed: {
     scale () {
